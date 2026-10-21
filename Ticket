@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="id" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>E-Ticket Anniversary 3rd Barudak Plat Z | 5 Desember 2026</title>
+    <meta name="description" content="Website E-Ticket resmi Anniversary 3rd Barudak Plat Z di Batman Cafe & Resto Bekasi. Pesan tiket sekarang Rp50.000 termasuk tiket masuk + 1 paket snack & minuman." />
+    <meta property="og:title" content="E-Ticket Anniversary 3rd Barudak Plat Z" />
+    <meta property="og:description" content="5 Desember 2026 di Batman Cafe & Resto Bekasi. Tiket Rp50.000 (Tiket Masuk + Snack & Minuman). Pesan tiket digital dengan 2 QR Code resmi." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" content="#0a0a0a" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Oswald:wght@500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  </head>
+  <body class="bg-neutral-950 text-neutral-100 antialiased selection:bg-amber-500 selection:text-neutral-950">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
